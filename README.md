@@ -1,15 +1,13 @@
-<h1 align="center">Hi 👋, I'm Lauro <img height="40" src="https://emoji.gg/assets/emoji/7333-parrotdance.gif"></h1>
-<h3 align="center">A passionate Python and Front-End (and a beginner designer) developer from Brazil</h3>
+<h1 align="center">Hola 👋, Soy Juan Cruz</h1>
+<h3 align="center">Un apasionado desarrollador web</h3>
 
-- 🔭 I’m currently working on my **Python Course**
+- 🌱 Estoy aprendiendo actualmente a profundidad **SASS, PHP y JavaScript**
 
-- 🌱 I’m currently learning **Python, HTML5 and CSS3**
+- 👯 Yo estoy actualmente colaborando en proyectos de **front-end y back-end**
 
-- 👯 I’m looking to collaborate on **front-end and back-end projects**
+- 📫 Contactame en: **juancruz.02.2001@gmail.com**
 
-- 📫 How to reach me: **brantlauro@gmail.com**
-
-- ⚡ What I like to do: **I like so much reading, basketball and skateboarding...and coding of course**
+- ⚡ Me encanta: **Aprender cosas nuevas todos los días**
 
 <h3 align="center">Connect with me:</h3>
 <div align="center">
