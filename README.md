@@ -9,6 +9,8 @@
 
 - ⚡ Me encanta: **Aprender cosas nuevas todos los días**
 
+- 📋 Mi portfolio: [JuanCruzDev](https://github.com/JuanCruz21)
+
 <h3 align="center">Connect with me:</h3>
 <div align="center">
 
@@ -45,4 +47,3 @@
   <img height= "150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuanCruz21&theme=react&layout=compact" />
 </p>
 
-[JuanCruz21](https://github.com/JuanCruz21)
