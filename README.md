@@ -17,7 +17,7 @@
   
 </div>
 
-<h3 align="center">Languajes y herramientas:</h3>
+<h3 align="center">Lenguajes y herramientas:</h3>
 
 <p align="center"> 
   <a href="https://www.w3.org/html/" target="_blank"> 
@@ -41,8 +41,8 @@
 </p>
 
 <p align= "center">
-  <img height= "150" src="https://github-readme-stats.vercel.app/api?username=BrantLauro&theme=react&show_icons=true&include_all_commits=true" />
-  <img height= "150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrantLauro&theme=react&layout=compact" />
+  <img height= "150" src="https://github-readme-stats.vercel.app/api?username=JuanCruz21&theme=react&show_icons=true&include_all_commits=true" />
+  <img height= "150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuanCruz21&theme=react&layout=compact" />
 </p>
 
 ------
