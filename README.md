@@ -4,7 +4,7 @@
 - 🌱 Estoy aprendiendo actualmente a profundidad **SASS, PHP, JS AJAX y JavaScript**
 - 🏋️‍♂️ Yo estoy actualmente colaborando en proyectos de **front-end y back-end**
 - 📫 Contactame en: **juancruz.02.2001@gmail.com**
-- 📋 Mi portfolio: **[JuanCruzDev](https://github.com/JuanCruz21)**
+- 📋 Mi portfolio: **[JuanCruzDev](https://juancruzdev.onrender.com/)**
 - ⚡ Me encanta: **Aprender cosas nuevas todos los días**
   
 <h3 align="center">Contactame desde mis redes:</h3>
