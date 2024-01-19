@@ -39,6 +39,10 @@
   <a href="https://www.php.net/" target="_blank"> 
     <img src="https://www.vectorlogo.zone/logos/php/php-icon.svg" alt="PHP" width="40" height="40"/> 
   </a>
+  <a href="https://learn.microsoft.com/es-es/dotnet/csharp/" target="_blank"> 
+    <img src="https://cdn.worldvectorlogo.com/logos/c--4.svg" alt="C#" width="40" height="40"/> 
+  </a>
+  
 </p>
 
 <p align= "center">
