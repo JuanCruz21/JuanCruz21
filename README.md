@@ -45,6 +45,4 @@
   <img height= "150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuanCruz21&theme=react&layout=compact" />
 </p>
 
-------
-
-[BrantLauro](https://github.com/BrantLauro)
+[JuanCruz21](https://github.com/JuanCruz21)
