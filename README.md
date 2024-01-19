@@ -1,15 +1,11 @@
 <h1 align="center">Hola 👋, Soy Juan Cruz</h1>
 <h3 align="center">Un apasionado desarrollador web</h3>
 
-- 🌱 Estoy aprendiendo actualmente a profundidad **SASS, PHP y JavaScript**
-
+- 🌱 Estoy aprendiendo actualmente a profundidad **SASS, PHP, JS AJAX y JavaScript**
 - 👯 Yo estoy actualmente colaborando en proyectos de **front-end y back-end**
-
 - 📫 Contactame en: **juancruz.02.2001@gmail.com**
-
-- ⚡ Me encanta: **Aprender cosas nuevas todos los días**
-
 - 📋 Mi portfolio: [JuanCruzDev](https://github.com/JuanCruz21)
+- ⚡ Me encanta: **Aprender cosas nuevas todos los días**
 
 <h3 align="center">Contactame desde mis redes:</h3>
 <div align="center">
