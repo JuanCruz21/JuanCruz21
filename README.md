@@ -1,16 +1,32 @@
-### Hi there 👋
+# Hola, soy Juan Cruz 👋
 
-<!--
-**JuanCruz21/JuanCruz21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Tengo una Tecnología en Desarrollo de Sistemas Informáticos.
 
-Here are some ideas to get you started:
+## 🎓 Educación
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Tecnología en Desarrollo de Sistemas Informáticos.
+
+## 💼 Experiencia Profesional
+
+Tengo experiencia profesional trabajando con:
+
+- Genexus
+- SQL
+- SAP
+
+## 🛠 Habilidades Técnicas
+
+Durante mi tiempo en la universidad y por mi cuenta, adquirí experiencia en:
+
+- JavaScript (React, Node.js)
+- SQL
+- MongoDB
+- Spring Boot
+- PHP
+- C#
+- SQL
+
+## 📫 Contacto
+
+Si quieres ponerte en contacto conmigo, puedes enviarme un mensaje a juancruz.02.2001@gmail.com.
+
