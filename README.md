@@ -1,7 +1,7 @@
 <h1 align="center">Hola 👋, Soy Juan Cruz</h1>
 <h3 align="center">Un apasionado desarrollador web</h3>
 
-- 🌱 Estoy aprendiendo actualmente a profundidad **SASS, PHP, JS AJAX y JavaScript**
+- 🌱 Conozco a profundidad PHP con Laravel, C# con ASP .NET, React, React Native y Flutter**
 - 🏋️‍♂️ Yo estoy actualmente colaborando en proyectos de **front-end y back-end**
 - 📫 Contactame en: **juancruz.02.2001@gmail.com**
 - 📋 Mi portfolio: **[JuanCruzDev](https://juanc.ruzdev.online)**
