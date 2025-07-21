@@ -1,5 +1,5 @@
 <h1 align="center">Hola 👋, Soy Juan Cruz</h1>
-<h3 align="center">Un apasionado desarrollador web, con más de 3 años de experiencia desarrollando soluciones a las empresas</h3>
+<h3 align="center" style="padding:2rem">Un apasionado desarrollador web, con más de 3 años de experiencia desarrollando soluciones a las empresas</h3>
 
 - 🌱 Conozco a profundidad PHP con Laravel, C# con ASP .NET, React, React Native, Python con Django y FASTAPI y Flutter**
 - 🏋️‍♂️ Yo estoy actualmente colaborando en proyectos de **front-end y back-end**
