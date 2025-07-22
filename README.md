@@ -1,8 +1,6 @@
 <h1 align="center">Hola 👋, soy Juan Cruz</h1>
 <h3 align="center">Desarrollador Web Full Stack con +3 años de experiencia creando soluciones digitales para empresas 🚀</h3>
 
----
-
 ### 💻 Sobre mí
 
 - 🔧 Trabajo con **PHP (Laravel)**, **C# (ASP.NET)**, **React**, **React Native**, **Python (Django & FastAPI)** y **Flutter**  
@@ -10,8 +8,6 @@
 - 📫 Contacto: [juancruz.02.2001@gmail.com](mailto:juancruz.02.2001@gmail.com)  
 - 🌐 Portafolio: [juancruzdev](https://juanc.ruzdev.online)
 - ⚡ Me apasiona **aprender todos los días y mantenerme al día con nuevas tecnologías**
-
----
 
 ### 🌐 Redes sociales
 
@@ -23,8 +19,6 @@
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 </div>
-
----
 
 ### 🛠️ Tecnologías que uso
 
@@ -41,8 +35,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="linux" width="40" />
   <img src="https://cdn.worldvectorlogo.com/logos/fastapi-1.svg" alt="linux" width="40" />
 </div>
-
----
 
 ### 📊 Estadísticas
 
